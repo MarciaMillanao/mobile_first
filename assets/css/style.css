@@ -1,0 +1,17 @@
+.titulo{
+  text-align: center;
+}
+
+img{
+  width: 100%;
+}
+
+.section_image{
+  padding: 15%;
+}
+
+.cont_img{
+  padding: 10%;
+  border: 2px solid red;
+  margin: 2%;
+}
