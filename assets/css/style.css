@@ -11,7 +11,24 @@ img{
 }
 
 .cont_img{
-  padding: 10%;
-  border: 2px solid red;
-  margin: 2%;
+  padding: 5%;
+}
+
+.fondo_form{
+  background-color: #F52BAB;
+  padding: 5%;
+}
+
+.titulo_form{
+  text-align: center;
+  padding-bottom: 5%;
+}
+
+.container_form{
+  padding:3% 10%;
+}
+
+.contaner_icon{
+  text-align: center;
+  padding: 2%;
 }
