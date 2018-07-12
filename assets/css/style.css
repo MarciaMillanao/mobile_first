@@ -10,6 +10,16 @@ img{
   padding: 15%;
 }
 
+.border_img{
+  border: 2px solid darkgray;
+  padding: 3%;
+}
+
+.section_image p{
+  text-align: justify;
+  margin-top: 4%;
+}
+
 .cont_img{
   padding: 5%;
 }
@@ -17,6 +27,16 @@ img{
 .fondo_form{
   background-color: #fa8072;
   padding: 5%;
+  color:#fff;
+}
+
+.fondo_form button{
+  background-color: #fff;
+  color: #000;
+}
+
+.fondo_form button:hover{
+  background-color: darkgray;
 }
 
 .titulo_form{
@@ -28,7 +48,15 @@ img{
   padding:3% 10%;
 }
 
+.iconos{
+  margin-right: 0%;
+}
+
 .contaner_icon{
   text-align: center;
   padding: 2%;
+}
+
+.contaner_icon i{
+  margin: 0% 1%;
 }
